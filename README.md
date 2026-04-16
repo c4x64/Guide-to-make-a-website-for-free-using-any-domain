@@ -32,6 +32,8 @@ This document specifies the architecture, cryptographic foundations, and operati
 
 Domains in this namespace are not registered; they are _derived_. The derivation function is a one-way mapping from a high-entropy shared secret combined with a mathematical constant. Anyone holding the seed map can reproduce and verify the full domain list. Anyone without it cannot enumerate or predict it.
 
+![Envelope Image](./alt_root_namespace_architecture.svg)
+
 ### 2.2 Cryptographic Seed Construction
 
 The seed is a 512-bit value produced by:

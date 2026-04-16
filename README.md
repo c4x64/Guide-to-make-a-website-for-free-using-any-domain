@@ -6,7 +6,7 @@
 **Author role:** Senior Network Engineer & Cryptographic Systems Architect  
 **Revision:** 1.0.0
 
-** PLEASE CHANGE THE MATH BEFORE USING FOR THE BEST RESULT**
+# PLEASE CHANGE THE MATH BEFORE USING FOR THE BEST RESULT
 
 ---
 

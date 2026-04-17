@@ -2,8 +2,7 @@
 ## High-Level Technical Specification and Initial Implementation Logic
 
 **License:** GNU General Public License v3.0  
-**Classification:** Academic / Technical Research  
-**Author role:** Senior Network Engineer & Cryptographic Systems Architect  
+**Classification:** Academic / Technical Research   
 **Revision:** 1.0.0
 
 # PLEASE CHANGE THE MATH BEFORE USING FOR THE BEST RESULT
